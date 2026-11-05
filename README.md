@@ -8,9 +8,18 @@ The project was inspired by [OpenAI’s Image 2.6 launch video](https://www.yout
 
 This is an independent experiment, not an OpenAI product or endorsement.
 
-## Start with the illustrated guide
+## Live GitHub Pages
 
-Open **[index.html](index.html)** locally for the full explanation. It explains what every artifact is, how it was made, what it is for and how it exercises Image 2.6. It includes:
+**[Open the live illustrated guide](https://az9713.github.io/gpt-image-2.6-demo/)** for the full explanation. It explains what every artifact is, how it was made, what it is for and how it exercises Image 2.6. All four HTML documents are published as rendered web pages:
+
+| Live page | What to explore |
+|---|---|
+| **[Illustrated field guide](https://az9713.github.io/gpt-image-2.6-demo/)** | Every artifact explained, with quality, markup, SVG and animation controls. |
+| **[Original comparison gallery](https://az9713.github.io/gpt-image-2.6-demo/image_26_experiment/)** | All 22 API outputs, prompts, settings, timings and usage-priced costs. |
+| **[Markup comparison and slider](https://az9713.github.io/gpt-image-2.6-demo/image_26_experiment/derived/markup-comparison.html)** | Original, annotation preview, prompt-only edit and markup-guided edit. |
+| **[SVG scale and edit comparison](https://az9713.github.io/gpt-image-2.6-demo/image_26_experiment/derived/svg-comparison.html)** | Native vectors at multiple sizes, local recolorings and geometry edits. |
+
+The illustrated guide includes:
 
 - A quality selector with matching timings and costs.
 - A prompt-only versus markup-guided comparison slider.
@@ -25,11 +34,15 @@ The guide is a static website. It works from local files; browsing it does not c
 python -m http.server 8000 --bind 127.0.0.1
 ```
 
-Then open `http://127.0.0.1:8000/`. On GitHub, an HTML file displays as source; download or clone the repository to view it as a website.
+Then open `http://127.0.0.1:8000/`. The live links above open the rendered GitHub Pages versions; a clone also works offline by opening the local HTML files.
 
-For the original comparison grid, open [image_26_experiment/index.html](image_26_experiment/index.html).
+### Click a preview to open its live page
 
-![Night Lab product advertisement generated with GPT Image 2.6 Flare](image_26_experiment/outputs/13-professional-product.png)
+| Illustrated guide | All-output comparison gallery |
+|---|---|
+| [![Open the live illustrated guide](image_26_experiment/outputs/13-professional-product.png)](https://az9713.github.io/gpt-image-2.6-demo/) | [![Open the live comparison gallery](image_26_experiment/derived/contact-sheet.jpg)](https://az9713.github.io/gpt-image-2.6-demo/image_26_experiment/) |
+| **Markup comparison** | **SVG scale and editing** |
+| [![Open the live markup comparison](image_26_experiment/derived/markup-comparison.jpg)](https://az9713.github.io/gpt-image-2.6-demo/image_26_experiment/derived/markup-comparison.html) | [![Open the live SVG comparison](image_26_experiment/outputs/19-svg-flare.svg)](https://az9713.github.io/gpt-image-2.6-demo/image_26_experiment/derived/svg-comparison.html) |
 
 ## What the project tests
 
@@ -58,7 +71,7 @@ Source 03 + same text prompt + markup overlay → output 18
 
 Both use Flare, medium quality, low complexity and 1024×1024 output. Only the second request includes `markup`.
 
-Open the [four-panel comparison and slider](image_26_experiment/derived/markup-comparison.html). The [annotated preview](image_26_experiment/derived/markup-annotated-preview.png) is for inspection; the actual submitted overlay is [mug-markup.png](image_26_experiment/inputs/mug-markup.png).
+Open the [live four-panel comparison and slider](https://az9713.github.io/gpt-image-2.6-demo/image_26_experiment/derived/markup-comparison.html). The [annotated preview](image_26_experiment/derived/markup-annotated-preview.png) is for inspection; the actual submitted overlay is [mug-markup.png](image_26_experiment/inputs/mug-markup.png).
 
 ### Native GIFs and the explicit sprite experiment are different artifacts
 
