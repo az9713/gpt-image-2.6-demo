@@ -1,0 +1,18 @@
+{
+  "endpoint": "https://api.openai.com/v1/images/generations",
+  "parameters": {
+    "model": "gpt-image-2.6-flare",
+    "quality": "low",
+    "complexity": "low",
+    "size": "1024x1024",
+    "output_format": "png",
+    "n": 1,
+    "prompt": "Create a polished 3D product photograph for the fictional brand NIGHT LAB. Fixed front three-quarter camera. Two identical ivory ceramic coffee mugs sit well apart on a dark walnut laboratory desk, left mug at 28 percent of image width, right mug at 72 percent. Both mugs have a clearly printed teal owl emblem above the exact words NIGHT LAB; handles face right. Between the mugs is a small rounded teal owl mascot with amber eyes, cream belly and tiny round spectacles. A brass desk lamp is at the far right; a closed notebook lies behind the mugs. Warm studio lighting, dark navy background, premium realistic ceramic reflections, clean balanced layout. Both mugs must be completely visible with clear space around them. No other text, no watermark."
+  },
+  "input_file": null,
+  "markup_file": null,
+  "input_sha256": null,
+  "markup_sha256": null,
+  "spend_before_usd": "0",
+  "reserved_usd": ".10"
+}

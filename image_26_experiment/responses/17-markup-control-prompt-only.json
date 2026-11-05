@@ -1,0 +1,31 @@
+{
+  "response_headers": {
+    "content-type": "application/json",
+    "openai-processing-ms": "8229"
+  },
+  "body": {
+    "background": "opaque",
+    "data": [
+      {
+        "b64_json": "[decoded into 17-markup-control-prompt-only.png]",
+        "generation_id": "652a41b2-abb4-4d8b-b6df-2027b16a93dc"
+      }
+    ],
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1024x1024",
+    "usage": {
+      "input_tokens": 1090,
+      "input_tokens_details": {
+        "image_tokens": 1024,
+        "text_tokens": 66
+      },
+      "output_tokens": 1449,
+      "output_tokens_details": {
+        "image_tokens": 1449,
+        "text_tokens": 0
+      },
+      "total_tokens": 2539
+    }
+  }
+}

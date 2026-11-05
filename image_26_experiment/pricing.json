@@ -1,0 +1,37 @@
+{
+  "source": "https://developers.openai.com/api/docs/pricing",
+  "image_rates_per_million": {
+    "text_input": 5,
+    "image_input": 8,
+    "image_output": 30
+  },
+  "svg_author_rates_per_million": {
+    "gpt-6-luna": [
+      0.1,
+      0.5
+    ],
+    "gpt-6.1-terra": [
+      1,
+      5
+    ],
+    "gpt-6.1-sol": [
+      2,
+      10
+    ],
+    "gpt-6-astra": [
+      10,
+      50
+    ],
+    "gpt-5.4-mini": [
+      0.75,
+      4.5
+    ]
+  },
+  "calculator_1024_square_output_usd": {
+    "low": 0.02469,
+    "medium": 0.04347,
+    "high": 0.05268,
+    "xhigh": 0.09366,
+    "max": 0.21072
+  }
+}

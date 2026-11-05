@@ -1,0 +1,31 @@
+{
+  "response_headers": {
+    "content-type": "application/json",
+    "openai-processing-ms": "10140"
+  },
+  "body": {
+    "background": "opaque",
+    "data": [
+      {
+        "b64_json": "[decoded into 22-gif-sunburst-product.gif]",
+        "generation_id": "509c463b-8ee6-4565-aa50-a79e4da83d9f"
+      }
+    ],
+    "output_format": "gif",
+    "quality": "low",
+    "size": "512x512",
+    "usage": {
+      "input_tokens": 88,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 88
+      },
+      "output_tokens": 555,
+      "output_tokens_details": {
+        "image_tokens": 555,
+        "text_tokens": 0
+      },
+      "total_tokens": 643
+    }
+  }
+}

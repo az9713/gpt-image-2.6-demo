@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <ns0:title>NIGHT LAB owl logo</ns0:title>
+  <ns0:desc>A geometric teal owl with amber eyes and cream accents above the words NIGHT LAB.</ns0:desc>
+  <ns0:g id="owl">
+    <ns0:path fill="#d36eff" d="M274 63 C313 111 365 127 414 148 C444 111 476 87 512 86 C548 87 580 111 610 148 C659 127 711 111 750 63 C752 112 746 146 718 167 C748 198 760 233 760 274 C760 314 748 344 731 370 C759 409 774 451 772 493 C769 564 726 628 670 686 L711 691 C750 691 783 705 788 731 L236 731 C241 705 274 691 313 691 L354 686 C298 628 255 564 252 493 C250 451 265 409 293 370 C276 344 264 314 264 274 C264 233 276 198 306 167 C278 146 272 112 274 63 Z" />
+    <ns0:path fill="#FFF0C9" d="M390 128 C443 151 490 188 510 237 C485 196 444 164 387 136 Z" />
+    <ns0:path fill="#FFF0C9" d="M634 128 C581 151 534 188 514 237 C539 196 580 164 637 136 Z" />
+    <ns0:circle cx="410" cy="270" r="89" fill="#FFF0C9" />
+    <ns0:circle cx="614" cy="270" r="89" fill="#FFF0C9" />
+    <ns0:circle cx="410" cy="270" r="73" fill="#F9A51A" />
+    <ns0:circle cx="614" cy="270" r="73" fill="#F9A51A" />
+    <ns0:circle cx="414" cy="268" r="37" fill="#d36eff" />
+    <ns0:circle cx="610" cy="268" r="37" fill="#d36eff" />
+    <ns0:path fill="#FFF0C9" d="M512 309 C534 313 541 335 537 354 C532 376 522 393 512 411 C502 393 492 376 487 354 C483 335 490 313 512 309 Z" />
+    <ns0:path fill="#FFF0C9" d="M283 369 C316 411 352 432 391 451 C444 477 486 522 512 576 C538 522 580 477 633 451 C672 432 708 411 741 369 C717 419 678 446 650 477 C608 524 578 582 545 691 L479 691 C446 582 416 524 374 477 C346 446 307 419 283 369 Z" />
+    <ns0:path fill="#FFF0C9" d="M364 675 C365 660 375 667 385 667 C395 667 400 675 399 687 C397 705 390 720 381 731 C371 720 363 704 364 675 Z" />
+    <ns0:path fill="#FFF0C9" d="M400 674 C401 659 411 665 420 665 C430 665 435 674 434 687 C432 705 425 720 416 731 C406 720 399 704 400 674 Z" />
+    <ns0:path fill="#FFF0C9" d="M436 675 C437 660 447 667 456 667 C466 667 471 675 470 688 C468 706 461 720 452 731 C442 720 435 704 436 675 Z" />
+    <ns0:path fill="#FFF0C9" d="M554 675 C555 660 565 667 574 667 C584 667 589 675 588 688 C586 706 579 720 570 731 C560 720 553 704 554 675 Z" />
+    <ns0:path fill="#FFF0C9" d="M590 674 C591 659 601 665 610 665 C620 665 625 674 624 687 C622 705 615 720 606 731 C596 720 589 704 590 674 Z" />
+    <ns0:path fill="#FFF0C9" d="M626 675 C627 660 637 667 646 667 C656 667 661 675 660 688 C658 706 651 720 642 731 C632 720 625 704 626 675 Z" />
+  </ns0:g>
+  <ns0:g id="wordmark" fill="#d36eff" stroke="#FFF0C9" stroke-width="2">
+    <ns0:text x="512" y="906" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="176" font-weight="800" letter-spacing="2">NIGHT LAB</ns0:text>
+  </ns0:g>
+</ns0:svg>

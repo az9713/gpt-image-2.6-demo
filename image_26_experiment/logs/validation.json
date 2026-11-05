@@ -1,0 +1,18 @@
+{
+  "successful_outputs": 22,
+  "requests": 23,
+  "formats": {
+    "png": 18,
+    "svg": 2,
+    "gif": 2
+  },
+  "cost_usd": "1.1632870",
+  "cap_usd": "4.00",
+  "all_output_hashes_verified": true,
+  "all_usage_costs_recomputed": true,
+  "markup_only_parameter_difference_verified": true,
+  "all_local_viewer_links_exist": true,
+  "gif_frame_count_duration_loop_verified": true,
+  "viewer_browser_check": "Markup slider changed clip region; all markup and SVG images loaded.",
+  "invoice_reconciled": false
+}

@@ -1,0 +1,17 @@
+{
+  "source": "outputs/03-quality-medium.png",
+  "overlay": "inputs/mug-markup.png",
+  "ellipse_xyxy": [
+    55,
+    390,
+    392,
+    738
+  ],
+  "width": 9,
+  "target": "left mug",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "transparent_pixels_present": true
+}

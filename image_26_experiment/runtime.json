@@ -1,0 +1,8 @@
+{
+  "recorded_libraries": {
+    "httpx": "0.28.1",
+    "Pillow": "11.0.0"
+  },
+  "guide": "Static HTML/CSS/JavaScript; no runtime dependencies for viewing",
+  "regeneration": "Offline builders require Python; live generation requires separate credentials and budget."
+}

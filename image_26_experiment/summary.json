@@ -1,0 +1,9 @@
+{
+  "limit_usd": "4.00",
+  "usage_priced_cost_usd": "1.1632870",
+  "remaining_under_limit_usd": "2.8367130",
+  "successful_outputs": 22,
+  "attempted_requests": 23,
+  "invoice_reconciled": false,
+  "unknown_cost_requests": []
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "19",
+    "vector_elements": 23,
+    "raster_images": 0,
+    "viewBox": "0 0 1024 1024",
+    "original_fill_changed": "#005B59",
+    "replacement_fill": "#d36eff",
+    "elements_recolored": 4,
+    "geometry_edit": {
+      "element": "circle",
+      "attribute": "r",
+      "before": "89",
+      "after": "102.35"
+    }
+  },
+  {
+    "id": "20",
+    "vector_elements": 35,
+    "raster_images": 0,
+    "viewBox": "0 0 1024 1024",
+    "original_fill_changed": "#008f8d",
+    "replacement_fill": "#d36eff",
+    "elements_recolored": 3,
+    "geometry_edit": {
+      "element": "circle",
+      "attribute": "r",
+      "before": "59",
+      "after": "67.85"
+    }
+  }
+]

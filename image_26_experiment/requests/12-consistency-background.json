@@ -1,0 +1,18 @@
+{
+  "endpoint": "https://api.openai.com/v1/images/edits",
+  "parameters": {
+    "model": "gpt-image-2.6-sunburst",
+    "quality": "medium",
+    "complexity": "low",
+    "size": "1024x1024",
+    "output_format": "png",
+    "n": 1,
+    "prompt": "Replace only the background wall with a softly blurred starry observatory window. Preserve the desk, teal left mug, ivory right mug, NIGHT LAB logos, owl identity, lamp and notebook."
+  },
+  "input_file": "outputs\\11-consistency-lighting.png",
+  "markup_file": null,
+  "input_sha256": "5a798a5ac72d2c14f8c8efe732103f77609a1c1e770c7a44e93b9daca7b94273",
+  "markup_sha256": null,
+  "spend_before_usd": "0.825174",
+  "reserved_usd": ".25"
+}

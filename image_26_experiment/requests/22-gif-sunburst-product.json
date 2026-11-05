@@ -1,0 +1,20 @@
+{
+  "endpoint": "https://api.openai.com/v1/images/generations",
+  "parameters": {
+    "model": "gpt-image-2.6-sunburst",
+    "quality": "low",
+    "complexity": "low",
+    "size": "512x512",
+    "output_format": "gif",
+    "n": 1,
+    "frame_count": 6,
+    "frame_duration_ms": 200,
+    "prompt": "Seamless looping product animation. One ivory ceramic mug with a simple teal owl emblem and the exact words NIGHT LAB sits on a walnut desk. Delicate steam curls upward in a small continuous motion. The mug and camera stay absolutely still. Dark navy backdrop, warm amber light. No additional text."
+  },
+  "input_file": null,
+  "markup_file": null,
+  "input_sha256": null,
+  "markup_sha256": null,
+  "spend_before_usd": "1.1461970",
+  "reserved_usd": ".75"
+}

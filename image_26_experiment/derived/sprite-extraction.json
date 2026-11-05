@@ -1,0 +1,15 @@
+{
+  "source": "outputs/16-mascot-sprite-sheet.png",
+  "grid": [
+    3,
+    2
+  ],
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "duration_ms": 200,
+  "loop": 0,
+  "note": "Fixed-grid extraction, not motion stabilization; registration errors remain visible."
+}

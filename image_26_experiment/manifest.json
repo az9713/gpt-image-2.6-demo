@@ -1,0 +1,382 @@
+{
+  "budget_usd": "4.00",
+  "jobs": [
+    {
+      "id": "01",
+      "name": "speed-flare-low",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-flare",
+        "quality": "low",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Create a polished 3D product photograph for the fictional brand NIGHT LAB. Fixed front three-quarter camera. Two identical ivory ceramic coffee mugs sit well apart on a dark walnut laboratory desk, left mug at 28 percent of image width, right mug at 72 percent. Both mugs have a clearly printed teal owl emblem above the exact words NIGHT LAB; handles face right. Between the mugs is a small rounded teal owl mascot with amber eyes, cream belly and tiny round spectacles. A brass desk lamp is at the far right; a closed notebook lies behind the mugs. Warm studio lighting, dark navy background, premium realistic ceramic reflections, clean balanced layout. Both mugs must be completely visible with clear space around them. No other text, no watermark.",
+      "source": null,
+      "reserve_usd": ".10"
+    },
+    {
+      "id": "02",
+      "name": "speed-sunburst-low",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "low",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Create a polished 3D product photograph for the fictional brand NIGHT LAB. Fixed front three-quarter camera. Two identical ivory ceramic coffee mugs sit well apart on a dark walnut laboratory desk, left mug at 28 percent of image width, right mug at 72 percent. Both mugs have a clearly printed teal owl emblem above the exact words NIGHT LAB; handles face right. Between the mugs is a small rounded teal owl mascot with amber eyes, cream belly and tiny round spectacles. A brass desk lamp is at the far right; a closed notebook lies behind the mugs. Warm studio lighting, dark navy background, premium realistic ceramic reflections, clean balanced layout. Both mugs must be completely visible with clear space around them. No other text, no watermark.",
+      "source": null,
+      "reserve_usd": ".10"
+    },
+    {
+      "id": "03",
+      "name": "quality-medium",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Create a polished 3D product photograph for the fictional brand NIGHT LAB. Fixed front three-quarter camera. Two identical ivory ceramic coffee mugs sit well apart on a dark walnut laboratory desk, left mug at 28 percent of image width, right mug at 72 percent. Both mugs have a clearly printed teal owl emblem above the exact words NIGHT LAB; handles face right. Between the mugs is a small rounded teal owl mascot with amber eyes, cream belly and tiny round spectacles. A brass desk lamp is at the far right; a closed notebook lies behind the mugs. Warm studio lighting, dark navy background, premium realistic ceramic reflections, clean balanced layout. Both mugs must be completely visible with clear space around them. No other text, no watermark.",
+      "source": null,
+      "reserve_usd": ".15"
+    },
+    {
+      "id": "04",
+      "name": "quality-high",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "high",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Create a polished 3D product photograph for the fictional brand NIGHT LAB. Fixed front three-quarter camera. Two identical ivory ceramic coffee mugs sit well apart on a dark walnut laboratory desk, left mug at 28 percent of image width, right mug at 72 percent. Both mugs have a clearly printed teal owl emblem above the exact words NIGHT LAB; handles face right. Between the mugs is a small rounded teal owl mascot with amber eyes, cream belly and tiny round spectacles. A brass desk lamp is at the far right; a closed notebook lies behind the mugs. Warm studio lighting, dark navy background, premium realistic ceramic reflections, clean balanced layout. Both mugs must be completely visible with clear space around them. No other text, no watermark.",
+      "source": null,
+      "reserve_usd": ".15"
+    },
+    {
+      "id": "05",
+      "name": "quality-xhigh",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "xhigh",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Create a polished 3D product photograph for the fictional brand NIGHT LAB. Fixed front three-quarter camera. Two identical ivory ceramic coffee mugs sit well apart on a dark walnut laboratory desk, left mug at 28 percent of image width, right mug at 72 percent. Both mugs have a clearly printed teal owl emblem above the exact words NIGHT LAB; handles face right. Between the mugs is a small rounded teal owl mascot with amber eyes, cream belly and tiny round spectacles. A brass desk lamp is at the far right; a closed notebook lies behind the mugs. Warm studio lighting, dark navy background, premium realistic ceramic reflections, clean balanced layout. Both mugs must be completely visible with clear space around them. No other text, no watermark.",
+      "source": null,
+      "reserve_usd": ".25"
+    },
+    {
+      "id": "06",
+      "name": "quality-max",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "max",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Create a polished 3D product photograph for the fictional brand NIGHT LAB. Fixed front three-quarter camera. Two identical ivory ceramic coffee mugs sit well apart on a dark walnut laboratory desk, left mug at 28 percent of image width, right mug at 72 percent. Both mugs have a clearly printed teal owl emblem above the exact words NIGHT LAB; handles face right. Between the mugs is a small rounded teal owl mascot with amber eyes, cream belly and tiny round spectacles. A brass desk lamp is at the far right; a closed notebook lies behind the mugs. Warm studio lighting, dark navy background, premium realistic ceramic reflections, clean balanced layout. Both mugs must be completely visible with clear space around them. No other text, no watermark.",
+      "source": null,
+      "reserve_usd": ".50"
+    },
+    {
+      "id": "07",
+      "name": "complexity-low",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "high",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Design a precise dark-mode infographic titled NIGHT LAB PIPELINE. Exactly six equal rectangular boxes arranged in two rows of three. Top row left to right: OBSERVE, ASK, TEST. Bottom row left to right: RECORD, REVIEW, SHARE. Exactly five arrows: OBSERVE to ASK; ASK to TEST; TEST vertically down then left to RECORD; RECORD to REVIEW; REVIEW to SHARE. Route the TEST-to-RECORD connector outside the boxes. Boxes 1 and 4 teal, boxes 2 and 5 amber, boxes 3 and 6 cream. Each box contains its exact uppercase label and one small matching line icon. A small owl emblem centered above the title. No extra boxes, arrows, labels, numbers or decorative text. Legible white type, dark navy background, disciplined grid, crisp professional typography.",
+      "source": null,
+      "reserve_usd": ".20"
+    },
+    {
+      "id": "08",
+      "name": "complexity-medium",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "high",
+        "complexity": "medium",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Design a precise dark-mode infographic titled NIGHT LAB PIPELINE. Exactly six equal rectangular boxes arranged in two rows of three. Top row left to right: OBSERVE, ASK, TEST. Bottom row left to right: RECORD, REVIEW, SHARE. Exactly five arrows: OBSERVE to ASK; ASK to TEST; TEST vertically down then left to RECORD; RECORD to REVIEW; REVIEW to SHARE. Route the TEST-to-RECORD connector outside the boxes. Boxes 1 and 4 teal, boxes 2 and 5 amber, boxes 3 and 6 cream. Each box contains its exact uppercase label and one small matching line icon. A small owl emblem centered above the title. No extra boxes, arrows, labels, numbers or decorative text. Legible white type, dark navy background, disciplined grid, crisp professional typography.",
+      "source": null,
+      "reserve_usd": ".20"
+    },
+    {
+      "id": "09",
+      "name": "complexity-high",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "high",
+        "complexity": "high",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Design a precise dark-mode infographic titled NIGHT LAB PIPELINE. Exactly six equal rectangular boxes arranged in two rows of three. Top row left to right: OBSERVE, ASK, TEST. Bottom row left to right: RECORD, REVIEW, SHARE. Exactly five arrows: OBSERVE to ASK; ASK to TEST; TEST vertically down then left to RECORD; RECORD to REVIEW; REVIEW to SHARE. Route the TEST-to-RECORD connector outside the boxes. Boxes 1 and 4 teal, boxes 2 and 5 amber, boxes 3 and 6 cream. Each box contains its exact uppercase label and one small matching line icon. A small owl emblem centered above the title. No extra boxes, arrows, labels, numbers or decorative text. Legible white type, dark navy background, disciplined grid, crisp professional typography.",
+      "source": null,
+      "reserve_usd": ".20"
+    },
+    {
+      "id": "10",
+      "name": "consistency-recolor",
+      "endpoint": "edits",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Change only the left mug ceramic body to deep teal. Preserve both NIGHT LAB logos, the owl, mug shapes, reflections and all scene objects.",
+      "source": "03",
+      "reserve_usd": ".25"
+    },
+    {
+      "id": "11",
+      "name": "consistency-lighting",
+      "endpoint": "edits",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Change only the lighting to cool blue evening light. Preserve the teal left mug, ivory right mug, both NIGHT LAB logos, owl identity, all objects and camera.",
+      "source": "10",
+      "reserve_usd": ".25"
+    },
+    {
+      "id": "12",
+      "name": "consistency-background",
+      "endpoint": "edits",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Replace only the background wall with a softly blurred starry observatory window. Preserve the desk, teal left mug, ivory right mug, NIGHT LAB logos, owl identity, lamp and notebook.",
+      "source": "11",
+      "reserve_usd": ".25"
+    },
+    {
+      "id": "13",
+      "name": "professional-product",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-flare",
+        "quality": "high",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Premium NIGHT LAB coffee mug advertisement. One ivory ceramic mug with teal owl emblem and exact NIGHT LAB wordmark, dark navy seamless studio background, amber rim light and physically realistic ceramic. Product left, generous negative space right. Exact headline at right: IDEAS AFTER DARK. Small exact subheading: NIGHT LAB. No other text.",
+      "source": null,
+      "reserve_usd": ".20"
+    },
+    {
+      "id": "14",
+      "name": "professional-poster",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "high",
+        "complexity": "high",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Create a polished dark navy event poster. Exact hierarchy: large NIGHT LAB; below it IDEAS AFTER DARK; then NOVEMBER 2026; then OBSERVE. QUESTION. BUILD. A large elegant teal and amber owl illustration occupies lower half. Precise typography, generous margins, modern editorial layout. No extra text or logos.",
+      "source": null,
+      "reserve_usd": ".20"
+    },
+    {
+      "id": "15",
+      "name": "sketch-to-mascot",
+      "endpoint": "edits",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Use the supplied rough owl sketch as the design reference. Create one polished full-body 3D mascot: rounded teal owl, amber eyes, cream belly, tiny round brass spectacles. Preserve the sketched silhouette and wing positions. Centered front view on a plain dark navy background. Friendly premium toy render, no text.",
+      "source": "inputs/owl-sketch.png",
+      "reserve_usd": ".25"
+    },
+    {
+      "id": "16",
+      "name": "mascot-sprite-sheet",
+      "endpoint": "edits",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1536x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Use the input owl as the exact character reference. Create a single animation sprite sheet with EXACTLY six frames in a precise 3-column by 2-row grid, read left to right then top to bottom. All panels equal size, no gutters, no borders. The same centered full-body teal owl gently raises its right wing in greeting, blinks, lowers wing, and returns toward the original pose. Fixed camera, consistent scale, spectacles and colors, plain identical dark navy background. No text or frame labels.",
+      "source": "15",
+      "reserve_usd": ".30"
+    },
+    {
+      "id": "17",
+      "name": "markup-control-prompt-only",
+      "endpoint": "edits",
+      "settings": {
+        "model": "gpt-image-2.6-flare",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "prompt": "Recolor only the left mug ceramic body cobalt blue. Preserve its NIGHT LAB logo, handle shape, reflections, the other mug, the owl mascot, lamp, notebook and background. Remove any red annotation circle from the finished photograph. Change nothing else.",
+      "source": "03",
+      "reserve_usd": ".25"
+    },
+    {
+      "id": "18",
+      "name": "markup-overlay-edit",
+      "endpoint": "edits",
+      "settings": {
+        "model": "gpt-image-2.6-flare",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1,
+        "markup": "inputs/mug-markup.png"
+      },
+      "prompt": "Recolor only the left mug ceramic body cobalt blue. Preserve its NIGHT LAB logo, handle shape, reflections, the other mug, the owl mascot, lamp, notebook and background. Remove any red annotation circle from the finished photograph. Change nothing else.",
+      "source": "03",
+      "reserve_usd": ".25"
+    },
+    {
+      "id": "19",
+      "name": "svg-flare",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-flare",
+        "quality": "low",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "svg",
+        "n": 1,
+        "svg": {
+          "model": "gpt-6-luna",
+          "reasoning": {
+            "effort": "low"
+          }
+        }
+      },
+      "prompt": "A clean editable vector logo for NIGHT LAB. Simple geometric teal owl with amber circular eyes above the exact uppercase words NIGHT LAB. Cream accents, compact centered composition. Flat vector shapes, no gradients, no shadows, no photographic texture.",
+      "source": null,
+      "reserve_usd": ".75"
+    },
+    {
+      "id": "20",
+      "name": "svg-sunburst",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "low",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "svg",
+        "n": 1,
+        "svg": {
+          "model": "gpt-6-luna",
+          "reasoning": {
+            "effort": "low"
+          }
+        }
+      },
+      "prompt": "A clean editable vector logo for NIGHT LAB. Simple geometric teal owl with amber circular eyes above the exact uppercase words NIGHT LAB. Cream accents, compact centered composition. Flat vector shapes, no gradients, no shadows, no photographic texture.",
+      "source": null,
+      "reserve_usd": ".75"
+    },
+    {
+      "id": "21",
+      "name": "gif-flare-owl",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-flare",
+        "quality": "low",
+        "complexity": "low",
+        "size": "512x512",
+        "output_format": "gif",
+        "n": 1,
+        "frame_count": 6,
+        "frame_duration_ms": 200
+      },
+      "prompt": "A seamless looping animation of one adorable rounded teal owl with amber eyes, cream belly and tiny brass spectacles. Front view, fixed camera and scale, dark navy background. The owl blinks once and gently waves its right wing, returning to its starting pose. No text.",
+      "source": null,
+      "reserve_usd": ".75"
+    },
+    {
+      "id": "22",
+      "name": "gif-sunburst-product",
+      "endpoint": "generations",
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "low",
+        "complexity": "low",
+        "size": "512x512",
+        "output_format": "gif",
+        "n": 1,
+        "frame_count": 6,
+        "frame_duration_ms": 200
+      },
+      "prompt": "Seamless looping product animation. One ivory ceramic mug with a simple teal owl emblem and the exact words NIGHT LAB sits on a walnut desk. Delicate steam curls upward in a small continuous motion. The mug and camera stay absolutely still. Dark navy backdrop, warm amber light. No additional text.",
+      "source": null,
+      "reserve_usd": ".75"
+    }
+  ],
+  "notes": [
+    "Costs are calculated from returned usage and published rates; not an invoice.",
+    "Sequential requests; no retries. Uncertain-charge errors block further spending.",
+    "A pre-request reserve is a local guard, not a server-enforced price ceiling.",
+    "All comparisons are single trials with stochastic variation; no seed control.",
+    "Markup pair starts independently from output 03. Only request difference is markup.",
+    "Speed and quality baselines have identical prompt, size and complexity."
+  ]
+}

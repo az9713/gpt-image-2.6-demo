@@ -1,0 +1,18 @@
+{
+  "endpoint": "https://api.openai.com/v1/images/edits",
+  "parameters": {
+    "model": "gpt-image-2.6-sunburst",
+    "quality": "medium",
+    "complexity": "low",
+    "size": "1024x1024",
+    "output_format": "png",
+    "n": 1,
+    "prompt": "Use the supplied rough owl sketch as the design reference. Create one polished full-body 3D mascot: rounded teal owl, amber eyes, cream belly, tiny round brass spectacles. Preserve the sketched silhouette and wing positions. Centered front view on a plain dark navy background. Friendly premium toy render, no text."
+  },
+  "input_file": "inputs\\owl-sketch.png",
+  "markup_file": null,
+  "input_sha256": "bb0b49d6b08426453c2fef218f2aa0249a2df518ee705d26af93851fe755df3a",
+  "markup_sha256": null,
+  "spend_before_usd": "0.877106",
+  "reserved_usd": ".25"
+}

@@ -1,0 +1,20 @@
+{
+  "endpoint": "https://api.openai.com/v1/images/generations",
+  "parameters": {
+    "model": "gpt-image-2.6-flare",
+    "quality": "low",
+    "complexity": "low",
+    "size": "512x512",
+    "output_format": "gif",
+    "n": 1,
+    "frame_count": 6,
+    "frame_duration_ms": 200,
+    "prompt": "A seamless looping animation of one adorable rounded teal owl with amber eyes, cream belly and tiny brass spectacles. Front view, fixed camera and scale, dark navy background. The owl blinks once and gently waves its right wing, returning to its starting pose. No text."
+  },
+  "input_file": null,
+  "markup_file": null,
+  "input_sha256": null,
+  "markup_sha256": null,
+  "spend_before_usd": "1.1291370",
+  "reserved_usd": ".75"
+}

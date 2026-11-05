@@ -1,0 +1,31 @@
+{
+  "response_headers": {
+    "content-type": "application/json",
+    "openai-processing-ms": "10374"
+  },
+  "body": {
+    "background": "opaque",
+    "data": [
+      {
+        "b64_json": "[decoded into 02-speed-sunburst-low.png]",
+        "generation_id": "185cee60-5c15-46f9-ae4c-a966f25637cb"
+      }
+    ],
+    "output_format": "png",
+    "quality": "low",
+    "size": "1024x1024",
+    "usage": {
+      "input_tokens": 155,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 155
+      },
+      "output_tokens": 824,
+      "output_tokens_details": {
+        "image_tokens": 824,
+        "text_tokens": 0
+      },
+      "total_tokens": 979
+    }
+  }
+}

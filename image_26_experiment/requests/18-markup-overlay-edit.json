@@ -1,0 +1,18 @@
+{
+  "endpoint": "https://api.openai.com/v1/images/edits",
+  "parameters": {
+    "model": "gpt-image-2.6-flare",
+    "quality": "medium",
+    "complexity": "low",
+    "size": "1024x1024",
+    "output_format": "png",
+    "n": 1,
+    "prompt": "Recolor only the left mug ceramic body cobalt blue. Preserve its NIGHT LAB logo, handle shape, reflections, the other mug, the owl mascot, lamp, notebook and background. Remove any red annotation circle from the finished photograph. Change nothing else."
+  },
+  "input_file": "outputs\\03-quality-medium.png",
+  "markup_file": "inputs/mug-markup.png",
+  "input_sha256": "138c6be7302df05408d7956eb7f88303815cdccecec35101a59f287df6a89081",
+  "markup_sha256": "aa019f93db3d302e32de09868b1898e8493674c112c2a2b9643f78e50749f5b7",
+  "spend_before_usd": "1.023907",
+  "reserved_usd": ".25"
+}

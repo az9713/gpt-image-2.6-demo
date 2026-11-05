@@ -1,0 +1,18 @@
+{
+  "endpoint": "https://api.openai.com/v1/images/edits",
+  "parameters": {
+    "model": "gpt-image-2.6-sunburst",
+    "quality": "medium",
+    "complexity": "low",
+    "size": "1024x1024",
+    "output_format": "png",
+    "n": 1,
+    "prompt": "Change only the lighting to cool blue evening light. Preserve the teal left mug, ivory right mug, both NIGHT LAB logos, owl identity, all objects and camera."
+  },
+  "input_file": "outputs\\10-consistency-recolor.png",
+  "markup_file": null,
+  "input_sha256": "816d3b9cf6fba0eff42776d3c88a96b50a3d6541c5246ce8ffd096fd7c3306c8",
+  "markup_sha256": null,
+  "spend_before_usd": "0.773267",
+  "reserved_usd": ".25"
+}

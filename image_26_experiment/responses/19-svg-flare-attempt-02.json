@@ -1,0 +1,37 @@
+{
+  "response_headers": {
+    "content-type": "application/json",
+    "openai-processing-ms": "20618"
+  },
+  "body": {
+    "background": "transparent",
+    "data": [
+      {
+        "b64_json": "[decoded into 19-svg-flare.svg]"
+      }
+    ],
+    "output_format": "svg",
+    "quality": "low",
+    "size": "1024x1024",
+    "svg_usage": {
+      "input_tokens": 1590,
+      "model": "gpt-6-luna",
+      "output_tokens": 1655,
+      "reasoning_tokens": 481,
+      "total_tokens": 3245
+    },
+    "usage": {
+      "input_tokens": 118,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 118
+      },
+      "output_tokens": 824,
+      "output_tokens_details": {
+        "image_tokens": 824,
+        "text_tokens": 0
+      },
+      "total_tokens": 942
+    }
+  }
+}

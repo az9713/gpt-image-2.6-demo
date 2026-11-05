@@ -1,0 +1,18 @@
+{
+  "endpoint": "https://api.openai.com/v1/images/generations",
+  "parameters": {
+    "model": "gpt-image-2.6-sunburst",
+    "quality": "high",
+    "complexity": "high",
+    "size": "1024x1024",
+    "output_format": "png",
+    "n": 1,
+    "prompt": "Design a precise dark-mode infographic titled NIGHT LAB PIPELINE. Exactly six equal rectangular boxes arranged in two rows of three. Top row left to right: OBSERVE, ASK, TEST. Bottom row left to right: RECORD, REVIEW, SHARE. Exactly five arrows: OBSERVE to ASK; ASK to TEST; TEST vertically down then left to RECORD; RECORD to REVIEW; REVIEW to SHARE. Route the TEST-to-RECORD connector outside the boxes. Boxes 1 and 4 teal, boxes 2 and 5 amber, boxes 3 and 6 cream. Each box contains its exact uppercase label and one small matching line icon. A small owl emblem centered above the title. No extra boxes, arrows, labels, numbers or decorative text. Legible white type, dark navy background, disciplined grid, crisp professional typography."
+  },
+  "input_file": null,
+  "markup_file": null,
+  "input_sha256": null,
+  "markup_sha256": null,
+  "spend_before_usd": "0.561700",
+  "reserved_usd": ".20"
+}

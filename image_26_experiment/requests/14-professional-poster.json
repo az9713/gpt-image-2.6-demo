@@ -1,0 +1,18 @@
+{
+  "endpoint": "https://api.openai.com/v1/images/generations",
+  "parameters": {
+    "model": "gpt-image-2.6-sunburst",
+    "quality": "high",
+    "complexity": "high",
+    "size": "1024x1024",
+    "output_format": "png",
+    "n": 1,
+    "prompt": "Create a polished dark navy event poster. Exact hierarchy: large NIGHT LAB; below it IDEAS AFTER DARK; then NOVEMBER 2026; then OBSERVE. QUESTION. BUILD. A large elegant teal and amber owl illustration occupies lower half. Precise typography, generous margins, modern editorial layout. No extra text or logos."
+  },
+  "input_file": null,
+  "markup_file": null,
+  "input_sha256": null,
+  "markup_sha256": null,
+  "spend_before_usd": "0.668340",
+  "reserved_usd": ".20"
+}

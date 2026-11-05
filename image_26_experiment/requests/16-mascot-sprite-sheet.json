@@ -1,0 +1,18 @@
+{
+  "endpoint": "https://api.openai.com/v1/images/edits",
+  "parameters": {
+    "model": "gpt-image-2.6-sunburst",
+    "quality": "medium",
+    "complexity": "low",
+    "size": "1536x1024",
+    "output_format": "png",
+    "n": 1,
+    "prompt": "Use the input owl as the exact character reference. Create a single animation sprite sheet with EXACTLY six frames in a precise 3-column by 2-row grid, read left to right then top to bottom. All panels equal size, no gutters, no borders. The same centered full-body teal owl gently raises its right wing in greeting, blinks, lowers wing, and returns toward the original pose. Fixed camera, consistent scale, spectacles and colors, plain identical dark navy background. No text or frame labels."
+  },
+  "input_file": "outputs\\15-sketch-to-mascot.png",
+  "markup_file": null,
+  "input_sha256": "856e5af80699ae091ca92cebba7fa9ae5b9842acc8d1dd4b12995f111eaff256",
+  "markup_sha256": null,
+  "spend_before_usd": "0.929168",
+  "reserved_usd": ".30"
+}

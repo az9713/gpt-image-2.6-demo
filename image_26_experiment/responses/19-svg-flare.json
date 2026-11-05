@@ -1,0 +1,14 @@
+{
+  "response_headers": {
+    "content-type": "application/json",
+    "openai-processing-ms": "25"
+  },
+  "body": {
+    "error": {
+      "message": "SVG generation requires 'svg.model'.",
+      "type": "invalid_request_error",
+      "param": "svg.model",
+      "code": "missing_required_parameter"
+    }
+  }
+}

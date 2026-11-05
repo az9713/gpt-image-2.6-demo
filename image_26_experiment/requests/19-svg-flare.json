@@ -1,0 +1,18 @@
+{
+  "endpoint": "https://api.openai.com/v1/images/generations",
+  "parameters": {
+    "model": "gpt-image-2.6-flare",
+    "quality": "low",
+    "complexity": "low",
+    "size": "1024x1024",
+    "output_format": "svg",
+    "n": 1,
+    "prompt": "A clean editable vector logo for NIGHT LAB. Simple geometric teal owl with amber circular eyes above the exact uppercase words NIGHT LAB. Cream accents, compact centered composition. Flat vector shapes, no gradients, no shadows, no photographic texture."
+  },
+  "input_file": null,
+  "markup_file": null,
+  "input_sha256": null,
+  "markup_sha256": null,
+  "spend_before_usd": "1.076504",
+  "reserved_usd": ".75"
+}

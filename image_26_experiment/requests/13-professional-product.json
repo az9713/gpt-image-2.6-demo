@@ -1,0 +1,18 @@
+{
+  "endpoint": "https://api.openai.com/v1/images/generations",
+  "parameters": {
+    "model": "gpt-image-2.6-flare",
+    "quality": "high",
+    "complexity": "low",
+    "size": "1024x1024",
+    "output_format": "png",
+    "n": 1,
+    "prompt": "Premium NIGHT LAB coffee mug advertisement. One ivory ceramic mug with teal owl emblem and exact NIGHT LAB wordmark, dark navy seamless studio background, amber rim light and physically realistic ceramic. Product left, generous negative space right. Exact headline at right: IDEAS AFTER DARK. Small exact subheading: NIGHT LAB. No other text."
+  },
+  "input_file": null,
+  "markup_file": null,
+  "input_sha256": null,
+  "markup_sha256": null,
+  "spend_before_usd": "0.615240",
+  "reserved_usd": ".20"
+}
